@@ -1,0 +1,38 @@
+_repo: Les-vacances_15057
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Ségur, Sophie, comtesse de
+    aliases:
+    - Segur, Comtesse de
+    - Ségur, Comtesse de
+    - Ségur, Sophie Rostopchine, comtesse de
+    - De Ségur, Sophie, comtesse
+    - Rostopchina, Sofiya Feodorovna
+    birthdate: 1799
+    deathdate: 1874
+    gutenberg_agent_id: '3980'
+    url: http://www.gutenberg.org/2009/agents/3980
+    wikipedia:
+    - http://fr.wikipedia.org/wiki/Sophie_Rostopchine%2C_comtesse_de_S%C3%A9gur
+    - http://en.wikipedia.org/wiki/Sophie_Rostopchine%2C_Comtesse_de_S%C3%A9gur
+description: ''
+gutenberg_bookshelf: FR Jeunesse
+gutenberg_issued: '2005-02-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15057'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Children''s stories, French'
+- !lcsh 'Vacations -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Children -- Juvenile fiction'
+title: Les vacances
+url: http://www.gutenberg.org/ebooks/15057
